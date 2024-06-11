@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34518.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebServer", "WebServer\WebServer.vcxproj", "{26F45D51-B004-4E85-A014-B598FF0D2694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26F45D51-B004-4E85-A014-B598FF0D2694}.Debug|x64.ActiveCfg = Debug|x64
+		{26F45D51-B004-4E85-A014-B598FF0D2694}.Debug|x64.Build.0 = Debug|x64
+		{26F45D51-B004-4E85-A014-B598FF0D2694}.Debug|x86.ActiveCfg = Debug|Win32
+		{26F45D51-B004-4E85-A014-B598FF0D2694}.Debug|x86.Build.0 = Debug|Win32
+		{26F45D51-B004-4E85-A014-B598FF0D2694}.Release|x64.ActiveCfg = Release|x64
+		{26F45D51-B004-4E85-A014-B598FF0D2694}.Release|x64.Build.0 = Release|x64
+		{26F45D51-B004-4E85-A014-B598FF0D2694}.Release|x86.ActiveCfg = Release|Win32
+		{26F45D51-B004-4E85-A014-B598FF0D2694}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA59179-86FB-42F3-BDAD-D42142E5E0C4}
+	EndGlobalSection
+EndGlobal
